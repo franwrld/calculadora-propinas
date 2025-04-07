@@ -10,11 +10,11 @@ function App() {
 
   return (
     <>
-      <header className="bg-teal-400 py-5">
-        <h1 className="text-center text-4xl font-black">Calculadora de Propinas</h1>
+      <header className="bg-emerald-500 py-5">
+        <h1 className="text-center text-4xl font-black text-emerald-100">Calculadora de Propinas</h1>
       </header>
 
-      <main className="max-w-7xl mx-auto py-20 grid  md:grid-cols-2">
+      <main className="max-w-7xl mx-auto py-20 grid  md:grid-cols-2 bg-gray-50">
         <div className="p-5">
           <h2 className="text-4xl font-black">Menú</h2>
           <div className="space-y-3 mt-10">
